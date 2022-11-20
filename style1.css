@@ -1,0 +1,33 @@
+.sucess-container{
+    width: 50%;
+}
+
+.sucess-container img{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    color: #eec614;
+    text-shadow: 0;
+    max-width: 200px;
+}
+
+.success-upload{
+    display: flex;
+    flex-direction: column;
+}
+
+#demo1{
+    display: flex;
+    flex-direction: row;
+    font-size:25px;
+    color: black;
+    box-sizing: border-box;
+    border-color: #eec614;
+    width:fit-content;
+    border-radius: 10px;
+    width: 20vh;
+    text-align: center;
+    justify-content: center;
+    border: 2px solid rgba(42, 45, 218, 0.2);
+}
